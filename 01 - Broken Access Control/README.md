@@ -1,21 +1,24 @@
 # BAC01
-ª½±µ¦bºô§}«á¥[¤J/admin¡A´N¥i¥H¶i¤JºÞ²z­û¤¶­±¤F
+ç›´æŽ¥åœ¨ç¶²å€å¾ŒåŠ å…¥/adminï¼Œå°±å¯ä»¥é€²å…¥ç®¡ç†å“¡ä»‹é¢äº†
 
-~~´N¬O³o»òÂ²³æ~~
+~~å°±æ˜¯é€™éº¼ç°¡å–®~~
 ![alt text](image.png)
 
 # BAC02
 ![alt text](image-1.png)
-¥i¥Hµo²{product¬O¥Î¼Æ¦r°µ¬°¦U­ÓªZ¾¹­¶­±ªº¦WºÙ¡A~~´N³qÆF¬Ý¬O­þ¤@­Ó~~
+å¯ä»¥ç™¼ç¾productæ˜¯ç”¨æ•¸å­—åšç‚ºå„å€‹æ­¦å™¨é é¢çš„åç¨±ï¼Œ~~å°±é€šéˆçœ‹æ˜¯å“ªä¸€å€‹~~
 ![alt text](image-2.png)
-µM«á´N·|µo²{4½æ±o¢Ì¤À¯S§O
+ç„¶å¾Œå°±æœƒç™¼ç¾4è³£å¾—ååˆ†ç‰¹åˆ¥
 ![alt text](image-3.png)
-¦Ó¥B¤£¥Î¿ú
-~~¤ñAIÃDÁÙ¬Ù~~
+è€Œä¸”ä¸ç”¨éŒ¢
+~~æ¯”AIé¡Œé‚„çœ~~
 # BAC03
-ª½±µ¶i¤Jadmin·|³Q¸õÂà
+ç›´æŽ¥é€²å…¥adminæœƒè¢«è·³è½‰
+
 ![alt text](image-4.png)
 
-~~¨º´N¤£­n³Q¸õÂà°Ú~~
+~~é‚£å°±ä¸è¦è¢«è·³è½‰å•Š~~
+
 ![alt text](image-5.png)
-FLAG´N¦b¸Ì­±
+
+FLAGå°±åœ¨è£¡é¢
